@@ -1,7 +1,4 @@
 import pandas as pd
-import networkx as nx
-import matplotlib.pyplot as plt
-from community import community_louvain 
 
 # Step 1: Load the Cleaned Data
 df = pd.read_csv("cleaned_relationships.csv")
