@@ -1,0 +1,15 @@
+Initial Data Quality Summary:
+Total Rows: 24796
+Missing Values: 1
+Duplicate Rows: 4720
+Inconsistent Subject-Object Pairs: 98
+Empty Subjects: 0
+Empty Objects: 0
+
+Cleaned Data Quality Summary:
+Total Rows: 19977
+Missing Values: 0
+Duplicate Rows: 0
+Inconsistent Subject-Object Pairs: 0
+Empty Subjects: 0
+Empty Objects: 0
