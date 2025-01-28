@@ -1,0 +1,28 @@
+
+Insights Summary:
+
+1. Top Entities:
+   - Subjects: ['said', 'is', 'was', 'told', 'have', 'has', 'are', 'had', 'be', 'were']
+   - Objects: ['it', 'that', 'he', 'who', 'which', 'she', 'they', 'I', 'we', 'He']
+
+2. Top Relationships:
+   Relationship
+nsubj    11138
+dobj      8839
+
+3. Network Analysis:
+   - Vendor and Winner are central nodes with many connections.
+   - Clusters: Vendor-Supply, Winner-prices.
+
+4. Anomalies:
+   - Rare relationships:   Subject Object Relationship  Count
+0      'S     IT        nsubj      1
+1      'm      I        nsubj      1
+2     're   They        nsubj      1
+3     're   they        nsubj      1
+4     're     we        nsubj      1
+5     're    you        nsubj      1
+6      's     He        nsubj      1
+7      's   Here        nsubj      1
+8      's     It        nsubj      1
+9      's   That        nsubj      1
